@@ -138,5 +138,3 @@ This prevents unfair performance evaluations.
 - Data visualization components
 
 ---
-
-## Project Structure
