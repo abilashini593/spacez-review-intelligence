@@ -39,9 +39,6 @@ The AI Review Intelligence Agent performs:
 ### Review Aggregation
 Collects reviews from multiple platforms and normalizes ratings.
 
-### Sentiment Analysis
-Identifies positive, negative, and neutral feedback.
-
 ### Theme Detection
 Extracts recurring topics such as:
 
